@@ -11,6 +11,6 @@ To see the image/screenshot of each theme, go to:
 
 # Português 
 Para ver a imagem/captura de tela de cada um dos temas, acesse:
-### [Os 12 Melhores Temas para seu Tint2](https://terminalroot.com.br/2021/12/os-12-mel)
+### [Os 12 Melhores Temas para seu Tint2](https://terminalroot.com.br/2021/12/os-12-melhores-temas-para-seu-tint2.html)
 
 ---
